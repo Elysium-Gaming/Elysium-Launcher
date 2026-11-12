@@ -123,3 +123,6 @@ Elysium Launcher is proprietary software distributed as a compiled executable. S
 World of Warcraft and related trademarks belong to Blizzard Entertainment.
 
 Elysium Launcher is an independent, unofficial project and is not affiliated with or endorsed by Blizzard Entertainment.
+
+Development and education only
+We do not support playing on live private servers. Connecting to public networks with this launcher is strictly for education, testing and development, such as working on TrinityCore.
